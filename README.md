@@ -1,4 +1,4 @@
-# Dappazon
+# NexCart
 
 ## Technology Stack & Tools
 
